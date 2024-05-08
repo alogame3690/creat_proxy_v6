@@ -1,4 +1,4 @@
-multi_proxy_ipv6
+multi_proxy_ipv6 
 Tạo hàng loạt proxy ipv6 từ 1 ipv4. Chú ý: Các trang web không phân giải được ipv6 sẽ không truy cập được qua proxy ipv6
 
 Yêu cầu
