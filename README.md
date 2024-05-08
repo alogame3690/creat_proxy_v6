@@ -7,6 +7,6 @@ Ipv6 \64
 Các bước cài đặt
 [Video chi tiết]: https://youtu.be/YNL61nuh4nc, sử dụng Centos (thuê tại vultr) để cài đặt
 
-Bước 1. Chạy lệnh trên CentOS: bash <(curl -s "https://raw.githubusercontent.com/ngochoaitn/multi_proxy_ipv6/main/install.sh")
+Bước 1. Chạy lệnh trên CentOS: bash <(curl -s "https://raw.githubusercontent.com/alogame3690/creat_proxy_v6/main/install.sh")
 
 Bước 2: Tải file proxy.zip, cấu trúc proxy: IP4:PORT:LOGIN:PASS
